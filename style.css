@@ -78,7 +78,7 @@ h1 {
 }
 
 .social {
-    display: inline-block;
+    display: block;
     width: 30px;
 }
 
