@@ -78,7 +78,7 @@ h1 {
 }
 
 .social {
-    display: block;
+    display: inline-block;
     width: 30px;
 }
 
@@ -128,4 +128,3 @@ article:hover {
 article:hover img{
     margin-left: 5px;
 }
-
